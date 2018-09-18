@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "name": "Start Server",
+      "isComplete": false
+    },
+    {
+      "id": 3,
+      "name": "Connect to Server",
+      "isComplete": true
+    },
+    {
+      "id": 4,
+      "name": "Setup fetch",
+      "isComplete": false
+    },
+    {
+      "id": 41741,
+      "name": "Add1",
+      "isComplete": true
+    }
+  ]
+}
